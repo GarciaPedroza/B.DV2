@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">B.D</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="id_materia">ID Materia:</string>
+    <string name="nombre">Nombre de la materia</string>
+    <string name="semestre">Semestre</string>
+    <string name="creditos">Creditos</string>
+    <string name="alta">Alta</string>
+    <string name="baja">Baja</string>
+    <string name="consulta">Consultar</string>
+    <string name="modificar">Modificar</string>
+    <string name="limpiar">Limpiar</string>
+
+    <string name="title_activity_registros">Registros</string>
+
+</resources>
